@@ -3,13 +3,30 @@
   "id": "material-ocean-theme",
   "publisher": "said-zenhr",
   "name": "Material Theme Ocean for Orca",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "execution": "data",
   "description": "Material Theme Ocean for the Orca app, code editor and terminal.",
   "license": "Apache-2.0",
+  "repository": "https://github.com/said-zenhr/orca-material-ocean-theme",
   "engines": {
     "orca": ">=1.4.245"
   },
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Material Ocean theme in the Orca code editor"
+  },
+  "screenshots": [
+    {
+      "path": "images/editor.png",
+      "alt": "TypeScript file in the Orca editor with Material Ocean colours",
+      "caption": "Editor"
+    },
+    {
+      "path": "images/terminal.png",
+      "alt": "Git log, diff and ANSI colours in the Orca terminal with Material Ocean",
+      "caption": "Terminal"
+    }
+  ],
   "contributes": {
     "themes": [
       {
@@ -26,6 +43,5 @@
       }
     ]
   },
-  "capabilities": [],
-  "repository": "https://github.com/said-zenhr/orca-material-ocean-theme"
+  "capabilities": []
 }

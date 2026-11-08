@@ -2,6 +2,10 @@
 
 The Material Theme Ocean colour scheme for [Orca](https://www.onorca.dev): the app, the code editor and the terminal.
 
+![Material Ocean in the Orca editor](images/editor.png)
+
+![Material Ocean in the Orca terminal](images/terminal.png)
+
 ## Use it
 
 1. Install it from **Settings → Plugins**.
