@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "mode": "dark",
   "terminal": {
-    "foreground": "#babed8",
+    "foreground": "#EEFFFF",
     "background": "#0F111A",
     "cursor": "#FFCB6B",
     "cursorAccent": "#0F111A",
